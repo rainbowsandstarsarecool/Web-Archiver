@@ -6,7 +6,7 @@
     <groupId>net.ukr.just_void</groupId>
     <packaging>war</packaging>
     <artifactId>archiver</artifactId>
-    <version>1.0.0</version>
+    <version>1.2.0</version>
     <name>archiver</name>
 
     <dependencies>
