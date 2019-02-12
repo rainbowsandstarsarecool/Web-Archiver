@@ -1,2 +1,2 @@
 # WebArchiver
-Simple web-based file archivation tool using Spring MVC.
+Simple web-based file archiving tool using Spring MVC.
