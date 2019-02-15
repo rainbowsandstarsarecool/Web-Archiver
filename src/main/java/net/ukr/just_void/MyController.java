@@ -49,9 +49,7 @@ public class MyController {
         } catch (IOException e) {
             throw new FileErrorException();
         }
-        if (totalSize
-
-                == 0) {
+        if (totalSize== 0) {
             return new ModelAndView("index");
         }
         byte[] bytes = baos.toByteArray();
